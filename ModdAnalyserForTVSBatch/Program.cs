@@ -21,8 +21,14 @@ namespace ModdAnalyserForTVSBatch
             //FetchCustomerDetailsUsingReflection();
             //MoodAnalyser m = new MoodAnalyser();
             //m.message = "";
-            CustomAttribute.AttributeDisplay(typeof(Employee));
+            // CustomAttribute.AttributeDisplay(typeof(Employee));
             //CustomAttribute.AttributeDisplay(Type.GetType("Employee"));
+            //Console.WriteLine(NumberOfTree.NumberOfTrees(10));
+            NumberOfUniqueBSTs solution = new NumberOfUniqueBSTs();
+
+            Console.WriteLine("Total number of BSTs possible for 3 distinct keys: " + solution.numTrees(5000));
+
+            Console.WriteLine("\n\nTotal number of BSTs possible for 5 distinct keys: " + solution.numTrees(500));
             Console.ReadLine(); 
         }
 

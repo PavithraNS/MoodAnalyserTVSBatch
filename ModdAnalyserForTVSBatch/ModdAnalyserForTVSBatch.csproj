@@ -46,9 +46,11 @@
     <Compile Include="CustomAttribute.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="CustomMoodAnalyser.cs" />
+    <Compile Include="DistinctBST.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="MoodAnalyser.cs" />
     <Compile Include="MoodAnalyserFactory.cs" />
+    <Compile Include="NumberOfTree.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestAllExceptionTypes.cs" />
