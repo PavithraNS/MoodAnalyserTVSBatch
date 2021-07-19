@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ixj4R8DT3xjzjXI/B18grvRjOiGO9PB6k7tyzaS3DQn2BNOGuf+HXH2XaZ+vNCVZduEizYtedISYLhCMHW7bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pavithra N S\\source\\repos\\ModdAnalyserForTVSBatch\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pavithra N S\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pavithra N S\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
