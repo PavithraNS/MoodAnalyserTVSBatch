@@ -26,6 +26,10 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
+bin/
+obj/
+bin
+obj
 /bin
 /obj
 */[Bb]in/
