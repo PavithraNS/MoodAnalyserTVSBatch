@@ -1,7 +1,0 @@
-C:\Users\Pavithra N S\source\repos\ModdAnalyserForTVSBatch\ModdAnalyserForTVSBatch\bin\Debug\ModdAnalyserForTVSBatch.exe.config
-C:\Users\Pavithra N S\source\repos\ModdAnalyserForTVSBatch\ModdAnalyserForTVSBatch\bin\Debug\ModdAnalyserForTVSBatch.exe
-C:\Users\Pavithra N S\source\repos\ModdAnalyserForTVSBatch\ModdAnalyserForTVSBatch\bin\Debug\ModdAnalyserForTVSBatch.pdb
-C:\Users\Pavithra N S\source\repos\ModdAnalyserForTVSBatch\ModdAnalyserForTVSBatch\obj\Debug\ModdAnalyserForTVSBatch.csproj.CoreCompileInputs.cache
-C:\Users\Pavithra N S\source\repos\ModdAnalyserForTVSBatch\ModdAnalyserForTVSBatch\obj\Debug\ModdAnalyserForTVSBatch.exe
-C:\Users\Pavithra N S\source\repos\ModdAnalyserForTVSBatch\ModdAnalyserForTVSBatch\obj\Debug\ModdAnalyserForTVSBatch.pdb
-C:\Users\Pavithra N S\source\repos\ModdAnalyserForTVSBatch\ModdAnalyserForTVSBatch\obj\Debug\ModdAnalyserForTVSBatch.csprojAssemblyReference.cache
