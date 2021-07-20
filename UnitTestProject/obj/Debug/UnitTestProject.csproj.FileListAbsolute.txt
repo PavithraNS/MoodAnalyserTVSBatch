@@ -1,0 +1,17 @@
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\GenericsDemoTVSBatch.exe
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\GenericsDemoTVSBatch.pdb
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\GenericsDemoTVSBatch.exe.config
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Pavithra N S\source\repos\GenericsDemoTVSBatch\UnitTestProject\obj\Debug\UnitTestProject.pdb
